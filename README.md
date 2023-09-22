@@ -21,10 +21,10 @@
 
 📫 联系我：
 
-- qq: 1146717850
-- Wechat: Peter1146717850
-- CSDN: Peter1146717850
-- Leetcode: momo-5cd
+- <img src="https://github.com/hanxiangTAO/hanxiangTAO.github.io/assets/104218841/ada5973c-db76-43a9-a78c-368674dbe2e9" width="20px" height="20px" /> QQ: 1146717850
+- <img src="https://github.com/hanxiangTAO/hanxiangTAO.github.io/assets/104218841/2678de13-fa9e-41ef-984a-3da863660f5a" width="20px" height="20px" /> Wechat: Peter1146717850
+- <img src="https://github.com/hanxiangTAO/hanxiangTAO.github.io/assets/104218841/fac50b09-2870-4cc7-a138-6b8b9f4110b8" width="20px" height="20px" /> CSDN: Peter1146717850
+- <img src="https://github.com/hanxiangTAO/hanxiangTAO.github.io/assets/104218841/9a9705c9-3e77-45b5-8b80-ae4a88ee896f" width="20px" height="20px" /> Leetcode: momo-5cd
 
 
 
@@ -52,7 +52,7 @@
 
 项目经历：
 
-- Shopify App-Embed Block 开发 （在我GitHub仓库里有）（中国海洋大学SRDP国创项目）
+- <img src="https://github.com/hanxiangTAO/hanxiangTAO.github.io/assets/104218841/880dd082-aa0c-46f6-adb5-fe071694da11" width="20px" height="20px" /> Shopify App-Embed Block 开发 （在我GitHub仓库里有）（中国海洋大学SRDP国创项目）
 
 
 
