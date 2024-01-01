@@ -6,7 +6,6 @@
 
 👀 我真的对车很感兴趣 (Dream car: volvo v60 T8 polestar)
 
-![72cf3e766fc7c7da170851127f6202a](https://github.com/hanxiangTAO/hanxiangTAO.github.io/assets/104218841/a8bc439d-a58c-417e-bcec-2562e560bf28)
 
 
 
